@@ -7,6 +7,7 @@ Almost all Versions will Support Security Updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0     | :white_check_mark: |
+| 1.5     | :white_check_mark: |
 
 
 ## Reporting a Vulnerability
