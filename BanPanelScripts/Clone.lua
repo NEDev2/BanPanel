@@ -1,4 +1,4 @@
-local CloneTable = {"nehoray1200","TestPlayerName"}
+local CloneTable = {"Skianton","TestPlayerName"}
 
 local FirstGui = script:WaitForChild("AdminPanel")
 local SecondGui = script:WaitForChild("PlayerListGui")
